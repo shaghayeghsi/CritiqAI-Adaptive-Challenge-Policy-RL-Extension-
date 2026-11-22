@@ -1,6 +1,4 @@
-# Suggested README addition
 
-Paste this section into the main CritiqAI README under a heading such as
 `## Adaptive Challenge Selection (Experimental)`:
 
 > CritiqAI includes an optional adaptive challenge-selection extension. It
@@ -15,6 +13,3 @@ Paste this section into the main CritiqAI README under a heading such as
 Link the detailed guide with:
 `[Adaptive RL extension and integration guide](README_ADAPTIVE_RL.md)`
 
-# Suggested commit message
-
-feat: add experimental adaptive challenge policy with PPO and PBRS support
