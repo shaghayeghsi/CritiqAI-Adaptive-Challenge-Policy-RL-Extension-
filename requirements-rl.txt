@@ -1,0 +1,5 @@
+# Optional dependencies for PPO inference / RL experiments.
+# The existing CritiqAI requirements remain unchanged.
+gymnasium>=1.0,<2.0
+stable-baselines3>=2.6,<3.0
+numpy>=1.26
